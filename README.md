@@ -30,11 +30,11 @@ These are some famous ML models which coding by myself with matlab.
 
 # Bayes Classifier with Gaussian Mixed Model (5 Gaussian distributions)
 
-![](./results/Bayes classifier with GMM (5).png)
+![](./results/Bayes%20classifier%20with%20GMM%20(5).png)
 
 # Bayes Classifier with Gaussian Mixed Model (15 Gaussian distributions)
 
-![](./results/Bayes classifier with GMM (15).png)
+![](./results/Bayes%20classifier%20with%20GMM%20(15).png)
 
 # Support Vector Machine
 
